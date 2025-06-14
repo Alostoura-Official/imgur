@@ -1,0 +1,25 @@
+name: Update files.json with image files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-files-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Find image files and update files.json
+        run: |
+          find . -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \) \
+            | sed 's|^\./||' \
+            | jq -R . | jq -s . > files.json
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update files.json with image files list
+          branch: main
+          file_pattern: files.json
