@@ -121,7 +121,7 @@
         {
           "id": "F4",
           "label": "F4",
-          "status": "off"
+          "status": "gas"
         },
         {
           "id": "F3",
@@ -153,7 +153,7 @@
         {
           "id": "E3",
           "label": "E3",
-          "status": "gas"
+          "status": "off"
         },
         {
           "id": "E2",
