@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-27T19:54:41.460Z",
+  "backupDate": "2026-03-27T17:48:47.728Z",
   "date": "2026-03-27",
   "data": {
     "burners": {
@@ -121,7 +121,7 @@
         {
           "id": "F4",
           "label": "F4",
-          "status": "gas"
+          "status": "off"
         },
         {
           "id": "F3",
@@ -131,7 +131,7 @@
         {
           "id": "F2",
           "label": "F2",
-          "status": "off"
+          "status": "gas"
         },
         {
           "id": "F1",
@@ -167,7 +167,7 @@
         }
       ]
     },
-    "lastUpdate": "2026-03-27T19:52:00.155Z",
+    "lastUpdate": "2026-03-27T17:48:45.032Z",
     "combustion-a": {
       "combustion-a-lub-level": "90",
       "combustion-a-lub-temp-tank": "38",
@@ -289,6 +289,6 @@
   "metadata": {
     "totalSystems": 13,
     "hasBurners": true,
-    "lastUpdate": "2026-03-27T19:52:00.155Z"
+    "lastUpdate": "2026-03-27T17:48:45.032Z"
   }
 }
