@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-27T19:11:30.280Z",
+  "backupDate": "2026-03-27T19:12:18.684Z",
   "date": "2026-03-27",
   "data": {
     "burners": {
@@ -167,7 +167,7 @@
         }
       ]
     },
-    "lastUpdate": "2026-03-27T19:11:27.555Z",
+    "lastUpdate": "2026-03-27T19:12:12.436Z",
     "combustion-a": {
       "combustion-a-lub-level": "90",
       "combustion-a-lub-temp-tank": "38",
@@ -289,6 +289,6 @@
   "metadata": {
     "totalSystems": 13,
     "hasBurners": true,
-    "lastUpdate": "2026-03-27T19:11:27.555Z"
+    "lastUpdate": "2026-03-27T19:12:12.436Z"
   }
 }
