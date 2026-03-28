@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T06:52:50.965Z",
+  "backupDate": "2026-03-28T06:55:44.806Z",
   "date": "2026-03-28",
   "data": {
     "combustion-a": {
@@ -17,7 +17,7 @@
       "combustion-a-control-pump": "B",
       "combustion-a-control-cooling-water": "410"
     },
-    "lastUpdate": "2026-03-28T06:52:50.877Z",
+    "lastUpdate": "2026-03-28T06:54:14.634Z",
     "combustion-b": {
       "combustion-b-lub-level": "90",
       "combustion-b-lub-temp-tank": "37",
@@ -180,54 +180,54 @@
         {
           "id": "C5",
           "label": "C5",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "C4",
           "label": "C4",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "C3",
           "label": "C3",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "C2",
           "label": "C2",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "C1",
           "label": "C1",
-          "status": "mazout"
+          "status": "off"
         }
       ],
       "D": [
         {
           "id": "D5",
           "label": "D5",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "D4",
           "label": "D4",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "D3",
           "label": "D3",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "D2",
           "label": "D2",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "D1",
           "label": "D1",
-          "status": "mazout"
+          "status": "off"
         }
       ],
       "E": [
@@ -289,6 +289,6 @@
   "metadata": {
     "totalSystems": 13,
     "hasBurners": true,
-    "lastUpdate": "2026-03-28T06:52:50.877Z"
+    "lastUpdate": "2026-03-28T06:54:14.634Z"
   }
 }
