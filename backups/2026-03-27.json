@@ -121,12 +121,12 @@
         {
           "id": "E4",
           "label": "E4",
-          "status": "off"
+          "status": "gas"
         },
         {
           "id": "E3",
           "label": "E3",
-          "status": "gas"
+          "status": "off"
         },
         {
           "id": "E2",
