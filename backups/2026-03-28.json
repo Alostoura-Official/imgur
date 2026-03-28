@@ -1,8 +1,173 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T16:07:56.055Z",
+  "backupDate": "2026-03-28T17:48:47.728Z",
   "date": "2026-03-28",
   "data": {
+    "burners": {
+      "A": [
+        {
+          "id": "B5",
+          "label": "B5",
+          "status": "gas"
+        },
+        {
+          "id": "B4",
+          "label": "B4",
+          "status": "gas"
+        },
+        {
+          "id": "B3",
+          "label": "B3",
+          "status": "gas"
+        },
+        {
+          "id": "B2",
+          "label": "B2",
+          "status": "gas"
+        },
+        {
+          "id": "B1",
+          "label": "B1",
+          "status": "gas"
+        }
+      ],
+      "B": [
+        {
+          "id": "A5",
+          "label": "A5",
+          "status": "gas"
+        },
+        {
+          "id": "A4",
+          "label": "A4",
+          "status": "gas"
+        },
+        {
+          "id": "A3",
+          "label": "A3",
+          "status": "gas"
+        },
+        {
+          "id": "A2",
+          "label": "A2",
+          "status": "gas"
+        },
+        {
+          "id": "A1",
+          "label": "A1",
+          "status": "gas"
+        }
+      ],
+      "C": [
+        {
+          "id": "D5",
+          "label": "D5",
+          "status": "gas"
+        },
+        {
+          "id": "D4",
+          "label": "D4",
+          "status": "gas"
+        },
+        {
+          "id": "D3",
+          "label": "D3",
+          "status": "gas"
+        },
+        {
+          "id": "D2",
+          "label": "D2",
+          "status": "gas"
+        },
+        {
+          "id": "D1",
+          "label": "D1",
+          "status": "gas"
+        }
+      ],
+      "D": [
+        {
+          "id": "C5",
+          "label": "C5",
+          "status": "gas"
+        },
+        {
+          "id": "C4",
+          "label": "C4",
+          "status": "gas"
+        },
+        {
+          "id": "C3",
+          "label": "C3",
+          "status": "gas"
+        },
+        {
+          "id": "C2",
+          "label": "C2",
+          "status": "gas"
+        },
+        {
+          "id": "C1",
+          "label": "C1",
+          "status": "gas"
+        }
+      ],
+      "E": [
+        {
+          "id": "F5",
+          "label": "F5",
+          "status": "gas"
+        },
+        {
+          "id": "F4",
+          "label": "F4",
+          "status": "off"
+        },
+        {
+          "id": "F3",
+          "label": "F3",
+          "status": "gas"
+        },
+        {
+          "id": "F2",
+          "label": "F2",
+          "status": "gas"
+        },
+        {
+          "id": "F1",
+          "label": "F1",
+          "status": "gas"
+        }
+      ],
+      "F": [
+        {
+          "id": "E5",
+          "label": "E5",
+          "status": "gas"
+        },
+        {
+          "id": "E4",
+          "label": "E4",
+          "status": "gas"
+        },
+        {
+          "id": "E3",
+          "label": "E3",
+          "status": "off"
+        },
+        {
+          "id": "E2",
+          "label": "E2",
+          "status": "gas"
+        },
+        {
+          "id": "E1",
+          "label": "E1",
+          "status": "gas"
+        }
+      ]
+    },
+    "lastUpdate": "2026-03-28T17:48:45.032Z",
     "combustion-a": {
       "combustion-a-lub-level": "90",
       "combustion-a-lub-temp-tank": "38",
@@ -17,7 +182,6 @@
       "combustion-a-control-pump": "B",
       "combustion-a-control-cooling-water": "410"
     },
-    "lastUpdate": "2026-03-28T16:07:31.349Z",
     "combustion-b": {
       "combustion-b-lub-level": "90",
       "combustion-b-lub-temp-tank": "33",
@@ -85,12 +249,46 @@
       "gas-heater-B-14-lub-pump-service-2-B": "A"
     },
     "steam-heater-A": {
-      "steam-heater-a-condensate-temp": "115"
+      "steam-heater-a-steam-pressure": "12",
+      "steam-heater-a-condensate-temp": "25",
+      "steam-heater-a-condensate-pressure": "0",
+      "steam-heater-a-condensate-level": "100"
+    },
+    "steam-heater-B": {
+      "steam-heater-b-steam-pressure": "12",
+      "steam-heater-b-condensate-temp": "80",
+      "steam-heater-b-condensate-pressure": "0",
+      "steam-heater-b-condensate-level": "80"
+    },
+    "natural-gas": {
+      "natural-gas-filter-level": "50",
+      "natural-gas-tank-level": "10",
+      "natural-gas-pressure-before": "7",
+      "natural-gas-temp-before": "15",
+      "natural-gas-pressure-after": "0.4",
+      "natural-gas-temp-after": "13"
+    },
+    "mazout-system": {
+      "mazout-tank-a-level": "18",
+      "mazout-tank-a-temp": "55",
+      "mazout-tank-b-level": "12.20",
+      "mazout-tank-b-temp": "65"
+    },
+    "mazout-pumps": {
+      "mazout-pump-b-pressure": "0",
+      "mazout-filter-b-diff": "0",
+      "mazout-pump-a-pressure": "16",
+      "mazout-filter-a-diff": "127",
+      "mazout-pump-a-bearing-level": "90",
+      "mazout-pump-b-bearing-level": "90",
+      "mazout-pump-c-pressure": "0",
+      "mazout-filter-c-diff": "0",
+      "mazout-pump-c-bearing-level": "90"
     }
   },
   "metadata": {
-    "totalSystems": 8,
-    "hasBurners": false,
-    "lastUpdate": "2026-03-28T16:07:31.349Z"
+    "totalSystems": 13,
+    "hasBurners": true,
+    "lastUpdate": "2026-03-28T17:48:45.032Z"
   }
 }
