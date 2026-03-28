@@ -1,16 +1,11 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T02:56:27.294Z",
+  "backupDate": "2026-03-28T02:58:36.665Z",
   "date": "2026-03-28",
-  "data": {
-    "combustion-a": {
-      "combustion-a-lub-temp-tank": "38"
-    },
-    "lastUpdate": "2026-03-28T02:49:52.878Z"
-  },
+  "data": {},
   "metadata": {
-    "totalSystems": 2,
+    "totalSystems": 0,
     "hasBurners": false,
-    "lastUpdate": "2026-03-28T02:49:52.878Z"
+    "lastUpdate": "2026-03-28T02:58:36.665Z"
   }
 }
