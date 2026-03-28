@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T03:07:08.003Z",
+  "backupDate": "2026-03-28T03:07:54.212Z",
   "date": "2026-03-28",
   "data": {
     "combustion-a": {
@@ -17,7 +17,7 @@
       "combustion-a-control-pump": "B",
       "combustion-a-control-cooling-water": "410"
     },
-    "lastUpdate": "2026-03-28T03:06:58.141Z",
+    "lastUpdate": "2026-03-28T03:07:42.356Z",
     "combustion-b": {
       "combustion-b-lub-level": "90",
       "combustion-b-lub-temp-tank": "37",
@@ -289,6 +289,6 @@
   "metadata": {
     "totalSystems": 13,
     "hasBurners": true,
-    "lastUpdate": "2026-03-28T03:06:58.141Z"
+    "lastUpdate": "2026-03-28T03:07:42.356Z"
   }
 }
