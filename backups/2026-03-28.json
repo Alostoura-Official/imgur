@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T07:31:12.707Z",
+  "backupDate": "2026-03-28T07:32:01.160Z",
   "date": "2026-03-28",
   "data": {
     "combustion-a": {
@@ -17,7 +17,7 @@
       "combustion-a-control-pump": "B",
       "combustion-a-control-cooling-water": "410"
     },
-    "lastUpdate": "2026-03-28T07:05:30.471Z",
+    "lastUpdate": "2026-03-28T07:10:45.505Z",
     "combustion-b": {
       "combustion-b-lub-level": "90",
       "combustion-b-lub-temp-tank": "37",
@@ -163,7 +163,7 @@
         {
           "id": "B3",
           "label": "B3",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "B2",
@@ -180,108 +180,108 @@
         {
           "id": "C5",
           "label": "C5",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "C4",
           "label": "C4",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "C3",
           "label": "C3",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "C2",
           "label": "C2",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "C1",
           "label": "C1",
-          "status": "off"
+          "status": "mazout"
         }
       ],
       "D": [
         {
           "id": "D5",
           "label": "D5",
-          "status": "off"
+          "status": "gas"
         },
         {
           "id": "D4",
           "label": "D4",
-          "status": "off"
+          "status": "gas"
         },
         {
           "id": "D3",
           "label": "D3",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "D2",
           "label": "D2",
-          "status": "off"
+          "status": "mazout"
         },
         {
           "id": "D1",
           "label": "D1",
-          "status": "off"
+          "status": "mazout"
         }
       ],
       "E": [
         {
           "id": "E5",
           "label": "E5",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "E4",
           "label": "E4",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "E3",
           "label": "E3",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "E2",
           "label": "E2",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "E1",
           "label": "E1",
-          "status": "mazout"
+          "status": "gas"
         }
       ],
       "F": [
         {
           "id": "F5",
           "label": "F5",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "F4",
           "label": "F4",
-          "status": "mazout"
+          "status": "off"
         },
         {
           "id": "F3",
           "label": "F3",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "F2",
           "label": "F2",
-          "status": "mazout"
+          "status": "gas"
         },
         {
           "id": "F1",
           "label": "F1",
-          "status": "mazout"
+          "status": "gas"
         }
       ]
     }
@@ -289,6 +289,6 @@
   "metadata": {
     "totalSystems": 13,
     "hasBurners": true,
-    "lastUpdate": "2026-03-28T07:05:30.471Z"
+    "lastUpdate": "2026-03-28T07:10:45.505Z"
   }
 }
