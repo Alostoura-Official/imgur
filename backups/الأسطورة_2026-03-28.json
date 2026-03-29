@@ -1,8 +1,16 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-28T19:59:03.402Z",
+  "backupDate": "2026-03-28T06:00:00.000Z",
+  "username": "الأسطورة",
   "date": "2026-03-28",
-  "data": {
+  "displayDate": "السبت 2026-03-28",
+  "shift": {
+    "number": "3",
+    "name": "الوردية الثالثة",
+    "icon": "🌙",
+    "backupTime": "٦:٠٠:٠٠ ص"
+  },
+  "dayData": {
     "combustion-a": {
       "combustion-a-lub-level": "90",
       "combustion-a-lub-temp-tank": "38",
@@ -17,7 +25,7 @@
       "combustion-a-control-pump": "B",
       "combustion-a-control-cooling-water": "410"
     },
-    "lastUpdate": "2026-03-28T19:58:50.997Z",
+    "lastUpdate": "2026-03-28T06:00:00.000Z",
     "combustion-b": {
       "combustion-b-lub-level": "90",
       "combustion-b-lub-temp-tank": "37",
@@ -287,8 +295,9 @@
     }
   },
   "metadata": {
-    "totalSystems": 13,
+    "systemsCount": 12,
     "hasBurners": true,
-    "lastUpdate": "2026-03-28T19:58:50.997Z"
+    "lastUpdate": "2026-03-28T06:00:00.000Z",
+    "shiftNote": "الوردية الثالثة (مساء الجمعة 27 حتى صباح السبت 28)"
   }
 }
