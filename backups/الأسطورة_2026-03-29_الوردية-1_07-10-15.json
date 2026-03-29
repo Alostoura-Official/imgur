@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "backupDate": "2026-03-29T05:10:15.219Z",
+  "backupDate": "2026-03-29T05:12:45.165Z",
   "username": "الأسطورة",
   "usernameKod": "40805",
   "displayDate": "الأحد 2026-03-29",
@@ -9,7 +9,7 @@
     "name": "الوردية الأولى",
     "startTime": "7:00 ص",
     "endTime": "15:00",
-    "backupTime": "٧:١٠:١٥ ص"
+    "backupTime": "٧:١٢:٤٥ ص"
   },
   "data": {
     "2026-03-28": {
@@ -461,7 +461,7 @@
           }
         ]
       },
-      "lastUpdate": "2026-03-29T05:10:04.090Z",
+      "lastUpdate": "2026-03-29T05:12:34.073Z",
       "combustion-a": {
         "combustion-a-lub-level": "90",
         "combustion-a-lub-temp-tank": "36",
@@ -588,7 +588,7 @@
   "metadata": {
     "totalDays": 3,
     "totalSystems": 28,
-    "lastUpdate": "2026-03-29T05:10:15.232Z",
-    "lastUpdateTime": "٢٩‏/٣‏/٢٠٢٦ ٧:١٠:١٥ ص"
+    "lastUpdate": "2026-03-29T05:12:45.165Z",
+    "lastUpdateTime": "٢٩‏/٣‏/٢٠٢٦ ٧:١٢:٤٥ ص"
   }
 }
